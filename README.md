@@ -1,16 +1,52 @@
-## Hi there 👋
+Hello, I am Richmond Osei
 
-<!--
-**Richmond771/Richmond771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Statistics Graduate
+ Data Analysis | Machine Learning | AI
+ Based in Ghana
 
-Here are some ideas to get you started:
+ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a statistics graduate passionate about data science, machine learning, and artificial intelligence.
+
+I enjoy working with real-world datasets, building predictive models, and transforming raw data into meaningful insights.
+
+Currently building my portfolio through hands-on projects in:
+
+Data Cleaning & Exploratory Data Analysis
+
+Regression & Classification Models
+
+Random Forest & Ensemble Learning
+
+Time Series Analysis
+
+Natural Language Processing
+
+ Technical Skills
+
+Programming:
+
+R
+Python
+
+Machine Learning:
+
+Logistic Regression
+
+Random Forest
+
+Linear Regression
+
+Model Evaluation (Accuracy, Precision, Recall, F1)
+
+Data Analysis:
+
+Exploratory Data Analysis
+
+Hypothesis Testing
+
+Correlation Analysis
+
+Statistical Interpretation
+
+Data Visualization
