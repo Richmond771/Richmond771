@@ -1,52 +1,27 @@
-Hello, I am Richmond Osei
+Richmond Osei
 
- Statistics Graduate
- Data Analysis | Machine Learning | AI
- Based in Ghana
+Statistician | Data Scientist | Quantitative Analyst
 
- About Me
+I am a statistics professional specializing in applied data science, predictive modeling, and quantitative analysis. My work focuses on transforming complex datasets into actionable intelligence that supports strategic decision-making.
 
-I am a statistics graduate passionate about data science, machine learning, and artificial intelligence.
+With a strong foundation in statistical theory and practical implementation, I design and evaluate models that are both analytically rigorous and business-relevant. My expertise spans regression modeling, classification systems, ensemble methods, and time series analysis, with particular emphasis on model validation and interpretability.
 
-I enjoy working with real-world datasets, building predictive models, and transforming raw data into meaningful insights.
+I approach data problems with structured analytical thinking  beginning with data integrity assessment, followed by exploratory diagnostics, model development, performance evaluation, and insight communication. My goal is not only to build accurate models, but to ensure they are reliable, generalizable, and aligned with real-world application.
 
-Currently building my portfolio through hands-on projects in:
+I have experience working with economic data, financial time series, and structured business datasets, applying statistical reasoning to uncover trends, quantify risk, and support forecasting.
 
-Data Cleaning & Exploratory Data Analysis
+I am particularly interested in:
 
-Regression & Classification Models
+Predictive analytics and forecasting
 
-Random Forest & Ensemble Learning
+Financial and economic data modeling
 
-Time Series Analysis
+Machine learning for structured datasets
 
-Natural Language Processing
+Statistical modeling for business optimization
 
- Technical Skills
+AI-driven decision systems
 
-Programming:
+Technically, I work primarily in R and Python, leveraging statistical learning methods and data visualization to communicate findings clearly to both technical and non-technical stakeholders.
 
-R
-Python
-
-Machine Learning:
-
-Logistic Regression
-
-Random Forest
-
-Linear Regression
-
-Model Evaluation (Accuracy, Precision, Recall, F1)
-
-Data Analysis:
-
-Exploratory Data Analysis
-
-Hypothesis Testing
-
-Correlation Analysis
-
-Statistical Interpretation
-
-Data Visualization
+I am open to collaborating with forward-thinking organizations and international teams seeking strong quantitative expertise combined with disciplined analytical execution.
